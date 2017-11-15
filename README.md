@@ -14,11 +14,6 @@ React-based network graph explorer
 - The main project parts should be reusable, so we can use any json file. Some hardcoding will be needed for the menu, but this should be limited and kept in separate files, if possible.
 - Should support pretty urls to select individual nodes and show their sidebar.
 
-## Milestones
-1. ($400) Minimal proof of concept that shows a very simple network graph + sidebar using the stack we discussed.
-2. ($800) Implement the network graph and sidebar properly. Fully working network graph visualization.
-3. ($600) Implement the "story telling" feature. Plays audio and focuses on nodes and edges.
-
 ## Implementation and frameworks:
 For network graph:
 - wrap visjs in react and redraw as needed (filter)
