@@ -2,7 +2,6 @@
 .sass-cache
 .publish
 coverage/
-dist/
 documentation/
 node_modules/
 reports/
